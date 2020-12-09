@@ -1,0 +1,7 @@
+F:\cursos\alura\formacao-dotnet\cSharp-parte2-orientacao-a-objetos\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe.config
+F:\cursos\alura\formacao-dotnet\cSharp-parte2-orientacao-a-objetos\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe
+F:\cursos\alura\formacao-dotnet\cSharp-parte2-orientacao-a-objetos\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.pdb
+F:\cursos\alura\formacao-dotnet\cSharp-parte2-orientacao-a-objetos\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csprojAssemblyReference.cache
+F:\cursos\alura\formacao-dotnet\cSharp-parte2-orientacao-a-objetos\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.CoreCompileInputs.cache
+F:\cursos\alura\formacao-dotnet\cSharp-parte2-orientacao-a-objetos\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.exe
+F:\cursos\alura\formacao-dotnet\cSharp-parte2-orientacao-a-objetos\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.pdb
